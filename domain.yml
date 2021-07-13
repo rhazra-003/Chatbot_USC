@@ -57,13 +57,20 @@ responses:
   utter_greet:
   - text: Hey! Welcome to the website of University of South Carolina, Columbia. How can I help you?
   utter_did_that_help:
-  - text: Did that help you?
+  - text: Was this helpful?
+    buttons:
+    - title: "Yes"
+      payload: "/affirm"
+    - title: "Partially Helped"
+      payload: "/affirm"
+    - title: "No"
+      payload: "/deny"
   utter_happy:
   - text: Great, carry on!
   utter_goodbye:
   - text: Bye
   utter_no_more:
-  - text: Sorry, that's all I have!
+  - text: Can you please reframe the question?
   utter_iamabot:
   - text: I am a bot, working for University of South Carolina, Columbia.
   utter_access_application:
@@ -156,6 +163,9 @@ responses:
   - text: To get a South Carolina license, students will need to prove proficiency in their driving ability through a written test of the South Carolina traffic laws followed by a road skills test. To study for the written test, a copy of the South Carolina Driver's Manual may be downloaded (see helpful links). After passing the written test, a road test (or driving test) is required at the SCDMV located at 1630 Shop Road. Students must provide their own car or a friend's car in order to take the test. The driving test may be taken more than once if necessary.
   utter_airport_transfer:
   - text: If you are coming from a foreign country, you can apply for the free taxi ride from the airport to the place of stay, however you can use this only one time.
+
+actions:
+  - action_save_conversation
 
 session_config:
   session_expiration_time: 60

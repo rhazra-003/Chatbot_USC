@@ -1,0 +1,21 @@
+intent,user_input,entity_name,entity_value,action,bot_reply
+greet,hello,,,utter_greet,Hey! Welcome to the website of University of South Carolina, Columbia. How can I help you?
+lunch,where to get lunch?,,,utter_lunch,There's a number of lunch places within and around the campus. Please see the lunch places here "https://sc.edu/experience/grab_a_bite/campus_restaurants_list.php"
+utter_did_that_help,Was this helpful?
+affirm,/affirm,,,utter_happy,Great, carry on!
+greet,hello,,,utter_greet,Hey! Welcome to the website of University of South Carolina, Columbia. How can I help you?
+lunch,where to get lunch?,,,utter_lunch,There's a number of lunch places within and around the campus. Please see the lunch places here "https://sc.edu/experience/grab_a_bite/campus_restaurants_list.php"
+utter_did_that_help,Was this helpful?
+affirm,/affirm,,,utter_happy,Great, carry on!
+affirm,thanks,,,utter_happy,Great, carry on!
+greet,/greet,,,utter_greet,Hey! Welcome to the website of University of South Carolina, Columbia. How can I help you?
+lunch,where to go for lunch?,,,utter_lunch,There's a number of lunch places within and around the campus. Please see the lunch places here "https://sc.edu/experience/grab_a_bite/campus_restaurants_list.php"
+utter_did_that_help,Was this helpful?
+affirm,/affirm,,,utter_happy,Great, carry on!
+greet,/greet,,,utter_greet,Hey! Welcome to the website of University of South Carolina, Columbia. How can I help you?
+lunch,where to go for lunch?,,,utter_lunch,There's a number of lunch places within and around the campus. Please see the lunch places here "https://sc.edu/experience/grab_a_bite/campus_restaurants_list.php"
+utter_did_that_help,Was this helpful?
+affirm,/affirm,,,utter_happy,Great, carry on!
+driving_test,how to get driving licence?,,,utter_driving_test,To get a South Carolina license, students will need to prove proficiency in their driving ability through a written test of the South Carolina traffic laws followed by a road skills test. To study for the written test, a copy of the South Carolina Driver's Manual may be downloaded (see helpful links). After passing the written test, a road test (or driving test) is required at the SCDMV located at 1630 Shop Road. Students must provide their own car or a friend's car in order to take the test. The driving test may be taken more than once if necessary.
+utter_did_that_help,Was this helpful?
+affirm,/affirm,,,utter_happy,Great, carry on!
