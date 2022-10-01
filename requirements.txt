@@ -42,7 +42,7 @@ humanfriendly==9.1
 idna==2.10
 importlib-metadata==4.0.1
 jmespath==0.10.0
-joblib==0.15.1
+joblib==1.2.0
 jsonpickle==2.0.0
 jsonschema==3.2.0
 kafka-python==2.0.2
