@@ -101,7 +101,7 @@ sanic-plugins-framework==0.9.5
 scikit-learn==0.24.2
 scipy==1.6.3
 sentry-sdk==0.19.5
-setuptools==52.0.0
+setuptools==65.5.1
 six==1.16.0
 sklearn-crfsuite==0.3.6
 slackclient==2.9.3
