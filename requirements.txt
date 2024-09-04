@@ -39,7 +39,7 @@ httplib2==0.19.1
 httptools==0.2.0
 httpx==0.23.0
 humanfriendly==9.1
-idna==2.10
+idna==3.7
 importlib-metadata==4.0.1
 jmespath==0.10.0
 joblib==1.2.0
