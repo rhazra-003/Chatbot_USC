@@ -133,4 +133,4 @@ wheel==0.38.1
 wincertstore==0.2
 wrapt==1.12.1
 yarl==1.6.3
-zipp==3.4.1
+zipp==3.19.1
